@@ -1,0 +1,18 @@
+POWERED BY SCRAPPERS
+
+put this folder in : /home/jpluto
+
+you are gonna use JPlutoKiosk-executer-mode.sh
+
+,SO,
+
+open terminal -> give it a permission to run using 'chmod +x /home/jpluto/Fix Folder/Kiosk-Mode App/JPlutoKiosk-executer-mode.sh' command -> run it using './JPlutoKiosk-executer-mode.sh' command
+
+now grab a cup of coffee :-)) & start editing the system to go into a kiosk mode running the game or a java or a cpp application at the beginning of the system
+
+
+Follow the script instructions written to you on terminal to edit your system safely
+
+if you want to edit something ..then edit this script JPlutoKiosk-executer-mode.sh & the grub images with the same names ..donot rename things & donot edit other scripts 
+
+To disable the kiosk mode run the disable Kiosk-Mode script

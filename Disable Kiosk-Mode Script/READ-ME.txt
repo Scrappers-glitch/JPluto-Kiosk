@@ -1,0 +1,12 @@
+POWERED By Scrappers
+
+this script is designed to disable the kiosk mode back in default place 
+
+its doing that by returning back the mate-panel application to the /usr/share/applications 
+
+you can run any application & configure your bluetooth and wifi using mate-panel then to re-enable back the kiosk mode run the JPluto Kiosk-Mode.sh script 
+
+
+OR 
+
+Actually if you double clicked '/home/jpluto/Fix Folder/mate-panel.desktop' it will disable the kiosk mode & return the mate-panel back in place
